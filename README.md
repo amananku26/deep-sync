@@ -7,5 +7,6 @@ yarn install react-csv-downloader
 yarn install bootstrap
 ```
 
-#### Demo
-
+###### Demo
+![30 Sec Demo](https://github.com/amananku26/deep-sync/blob/working-branch/ezgif.com-gif-maker.gif
+)
